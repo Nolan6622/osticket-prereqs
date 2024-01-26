@@ -37,14 +37,12 @@ Go to microsoft azure and login to your account. Create a virtual machine and re
 <img width="1363" alt="PHP" src="https://github.com/Nolan6622/osticket-prereqs/assets/157658447/fb64a13f-3d6f-4034-88dc-abc07d35a852">
 <img width="1363" alt="IIS" src="https://github.com/Nolan6622/osticket-prereqs/assets/157658447/1320dc73-46bd-479b-acc7-4d97df68aa0d">
 <img width="1363" alt="mysql" src="https://github.com/Nolan6622/osticket-prereqs/assets/157658447/0c63c5d2-c203-4a2f-862a-3839a67ad050">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Once into your virtual machine, you will need to download PHP manager, Visual C++, my SQL, and IIS. All of these should show up in your "downloads" folder on your virtual machine. You will need to double click on each one and go though the steps of installing.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="1363" alt="Screenshot 2024-01-25 at 21 12 29" src="https://github.com/Nolan6622/osticket-prereqs/assets/157658447/db7eed2b-f86f-406d-a7e6-be1548e50138">
+<img width="1363" alt="OSticket" src="https://github.com/Nolan6622/osticket-prereqs/assets/157658447/8994c5b7-0aff-44ff-8c94-6a306dcfe7a7">
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+After installing PHP manager, Visual C++, my SQL, and IIS, you should be able to follow the last steps of the installation process and fill out your information. You will need to create an admin user and email for your osticket system settings. Once applied, you have completed the installation process for osticket!
 <br />
