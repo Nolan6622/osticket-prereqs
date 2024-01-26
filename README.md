@@ -33,10 +33,10 @@ Go to microsoft azure and login to your account. Create a virtual machine and re
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+<img width="1363" alt="visual c++" src="https://github.com/Nolan6622/osticket-prereqs/assets/157658447/ad7749d7-2a77-4d25-ba40-35c8fde62417">
+<img width="1363" alt="PHP" src="https://github.com/Nolan6622/osticket-prereqs/assets/157658447/fb64a13f-3d6f-4034-88dc-abc07d35a852">
+<img width="1363" alt="IIS" src="https://github.com/Nolan6622/osticket-prereqs/assets/157658447/1320dc73-46bd-479b-acc7-4d97df68aa0d">
+<img width="1363" alt="mysql" src="https://github.com/Nolan6622/osticket-prereqs/assets/157658447/0c63c5d2-c203-4a2f-862a-3839a67ad050">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
